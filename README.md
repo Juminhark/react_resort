@@ -1,11 +1,14 @@
- ## [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
-  
- [ReactProject - BeachResort](https://www.youtube.com/watch?v=ScDWrogElmo)
+## [`react`](https://reactjs.org/docs/getting-started.html)
 
-  [Updated React Beach Resort](https://www.youtube.com/watch?v=l0JbuMVXaTs)
+## tutorial
 
-## project dependencies
+- [Coding Addict - react project](https://www.youtube.com/watch?v=ScDWrogElmo)
+- [Coding Addict - updated react](https://www.youtube.com/watch?v=l0JbuMVXaTs)
 
-create-react-app<br/>
-react-icons<br/>
-react-router-dom<br/>
+## init project
+
+```sh
+npx create-react-app resort
+
+cd resort
+```
