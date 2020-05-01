@@ -6,8 +6,7 @@ npm i react-icons react-router-dom styled-components
 
 - [`react-icons`](https://react-icons.netlify.com/#/)
 - [`react-router-dom`](https://www.npmjs.com/package/react-router-dom)
-
-* [`styled-components`](https://www.npmjs.com/package/styled-components)
+- [`styled-components`](https://www.npmjs.com/package/styled-components)
 
 ## route
 
